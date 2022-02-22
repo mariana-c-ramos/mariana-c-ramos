@@ -9,7 +9,7 @@
 📜 I have a degree and post graduation in **Strategic Marketing**, done in **ISEG**.<br>
 🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as an Account Manager.<br>
 📚 In 2021 I found my passion for Frontend Development and started learning it in Codecademy.<br>
-📋 Currently I'm learning JavaScript and React, while getting more advanced in CSS and Sass.<br>
+📋 Currently I'm learning JavaScript and React, while getting more advanced in Sass.<br>
 
 ---
 
