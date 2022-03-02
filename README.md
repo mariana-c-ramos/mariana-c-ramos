@@ -11,8 +11,8 @@
 
 ---
 
-<br>
 Bellow you can check my flow and streak of commits and my top languages used until now:
+<br>
 
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -42,7 +42,6 @@ Bellow you can check my flow and streak of commits and my top languages used unt
  </div>
 
 
-<br>
 <br>
   
 <p>Reach out to me in the following places!</p>
