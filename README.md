@@ -15,8 +15,8 @@ Bellow you can check my flow and streak of commits and my top languages used unt
 <br>
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=merko&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&theme=merko"/>
 </div>
 <br>
   
