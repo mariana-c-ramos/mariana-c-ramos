@@ -1,6 +1,4 @@
 # Hello! 👋🏼
-
-## Welcome to my GitHub page!
 <br>
 
 **ABOUT ME**<br>
