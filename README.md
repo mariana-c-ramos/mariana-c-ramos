@@ -1,22 +1,36 @@
 # Hello! 👋🏼
 <br>
 
-**ABOUT ME**<br>
-🧍🏽‍♀ My name is Mariana, but usually my friends call me Mary or Ramos.<br>
+**WHO AM I?**<br>
+🧍🏽‍♀ My name is Mariana, but you can call me Mary or Ramos.<br>
 🪴 I love plants and one day I hope I'm able to have a big garden.<br>
-📜 I have a degree and post graduation in **Strategic Marketing**, done in **ISEG**.<br>
-🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as an Account Manager.<br>
-📚 In 2021 I found my passion for Frontend Development and started learning it in Codecademy.<br>
-📋 Currently I'm learning JavaScript and React, while getting more advanced in Sass.<br>
+🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
+
+**WHAT ARE MY STUDIES?**<br>
+📜 I have a degree in **Marketing**, done in **IPS**.<br>
+📜 Then I went on to do a post graduation in **Strategic Marketing**, in **ISEG**.<br>
+
+**WHERE HAVE I WORKED?**<br>
+🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as a Digital Account Manager.<br>
+📄 Some of my tasks envolved requesting HTML creatives and small Landing Pages, so I already have knowledge with those projects.<br>
+📚 Although I liked the area, in 2021 I found my passion for **Frontend Development** and decided to change my career!<br>
+📋 I'm doing the Frontend Development course in **Codecademy**, and currently I'm learning JavaScript and Tailwind CSS.
+<br>
+<br>
+<br>
+**MY SPECIAL PROJECTS**<br>
+[Spicy Kiwi Store](https://github.com/mariana-c-ramos/spicy-kiwi-store)<br>
+[Alivio's Institutional Website](https://github.com/mariana-c-ramos/alivio2)
 
 ---
 
+<br>
 Bellow you can check my flow and streak of commits and my top languages used until now:
 <br>
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=merko&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&theme=merko"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&theme=tokyonight"/>
 </div>
 <br>
   
@@ -28,7 +42,7 @@ Bellow you can check my flow and streak of commits and my top languages used unt
    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img alt="Sass" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <!-- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
  </div>
 
  <br>
