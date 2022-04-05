@@ -19,8 +19,8 @@
 <br>
 <br>
 **MY SPECIAL PROJECTS**<br>
-[Spicy Kiwi Store](https://github.com/mariana-c-ramos/spicy-kiwi-store)<br>
-[Alivio's Institutional Website](https://github.com/mariana-c-ramos/alivio2)
+[mIANA: My Personal Portfolio](https://mariana-c-ramos.github.io/miana-portfolio/)<br>
+[Roots: Online Plants' Store](https://mariana-c-ramos.github.io/roots-store/)
 
 ---
 
