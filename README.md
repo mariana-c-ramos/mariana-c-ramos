@@ -64,10 +64,8 @@ Bellow you can check my flow and streak of commits and my top languages used unt
 <p>Reach out to me in the following places!</p>
   
 <div>
- 	<a href="https://www.linkedin.com/in/mariana-ramos-06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/17506111/mariana-ramos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/214o6wbi5l3dg5jrryun4cx2a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="mailto:mary.programms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/mariana-ramos-06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://ko-fi.com/maryisadev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a> 
  
 </div>
