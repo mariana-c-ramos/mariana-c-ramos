@@ -28,11 +28,11 @@
 Bellow you can check my flow and streak of commits and my top languages used until now:
 <br>
 
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&theme=tokyonight"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-c-ramos&show_icons=true&theme=nord)<br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-c-ramos&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
   
  **LANGUAGES**
  <div style="display: flex">
