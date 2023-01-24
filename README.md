@@ -2,20 +2,19 @@
 <br>
 
 **WHO AM I?**<br>
-🧍🏽‍♀ My name is Mariana, but you can call me Mary or Ramos.<br>
+🧍🏽‍♀ I'm mianaLab, but you can call me Mary.<br>
 🌻 I love plants and one day I hope I'm able to have a big garden.<br>
 🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
 
 **WHAT ARE MY STUDIES?**<br>
 📜 I have a degree in **Marketing**, done in **IPS**.<br>
 📜 Then I went on to do a post graduation in **Strategic Marketing**, in **ISEG**.<br>
+📜 I did the Frontend Development course in **Codecademy**, and currently I'm learning jQuery and React.<br>
+📜 Currently I'm doing an 1y course in Web Design and Development, in **LSD**.<br>
 
 **WHERE HAVE I WORKED?**<br>
 🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as a Digital Account Manager.<br>
-📄 Some of my tasks envolved requesting HTML creatives and small Landing Pages, so I already have knowledge with those projects.<br>
-📚 Although I liked the area, in 2021 I found my passion for **Frontend Development** and decided to change my career!<br>
-📋 I did the Frontend Development course in **Codecademy**, and currently I'm learning jQuery and React.
-🎒 Currently I'm working as a frontend developer at YDigital Media
+🎒 I have been working for 8m as a Frontend Developer at YDigital Media.<br>
 <br>
 <br>
 <br>
