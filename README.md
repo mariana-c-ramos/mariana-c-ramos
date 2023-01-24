@@ -17,7 +17,6 @@
 🎒 I have been working for 8m as a Frontend Developer at YDigital Media.<br>
 <br>
 <br>
-<br>
 **MY SPECIAL PROJECTS**<br>
 [mIANA: My Personal Portfolio](https://mariana-c-ramos.github.io/miana-portfolio/)<br>
 [Roots: Online Plants' Store](https://mariana-c-ramos.github.io/roots-store/)
