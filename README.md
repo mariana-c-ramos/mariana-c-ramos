@@ -10,7 +10,7 @@
 **WHAT ARE MY STUDIES?**<br>
 📜 (2019) I have a degree in **Marketing**, done in **IPS**.<br>
 📜 (2021) Then I went on to do a post graduation in **Strategic Marketing**, in **ISEG**.<br>
-📜 (2022) I did the Frontend Development course in **Codecademy**, and currently I'm learning jQuery and React.<br>
+📜 (2022) I did the Frontend Development course in **Codecademy**, and currently I'm learning Advanced Javascript and React.<br>
 📜 (2023) Currently I'm doing a 1y course in Web Design and Development, in **LSD**.<br>
 
 **WHERE HAVE I WORKED?**<br>
