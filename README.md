@@ -5,7 +5,6 @@
 🧍🏽‍♀ I'm mianaLab, a mix between a childhood nickname and my artistic name!<br>
 🌻 I love plants and one day I hope I'm able to have a big garden.<br>
 🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
-🪡 Currently trying to start doing pottery and embroidery!
 
 **WHAT ARE MY STUDIES?**<br>
 📜 (2019) I have a degree in **Marketing**, done in **IPS**.<br>
@@ -15,7 +14,7 @@
 
 **WHERE HAVE I WORKED?**<br>
 🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as a Digital Account Manager.<br>
-🎒 Changed area and currently been working for 8m as a Frontend Developer at YDigital Media.<br>
+🎒 Changed area and currently been working for 10m as a Frontend Developer at YDigital Media.<br>
 <br>
 <br>
 **MY SPECIAL PROJECTS**<br>
