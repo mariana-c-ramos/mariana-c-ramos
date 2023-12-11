@@ -7,8 +7,8 @@
 🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
 
 **WHAT ARE MY STUDIES?**<br>
-📜 (2019) I have a degree in **Marketing**.
-📜 (2021) Then I went on to do a post graduation in **Strategic Marketing**.
+📜 (2019) I have a degree in **Marketing**.<br>
+📜 (2021) Then I went on to do a post graduation in **Strategic Marketing**.<br>
 📜 (2022) I did a Frontend Development course in **Codecademy**, and currently I'm learning React and TypeScript.<br>
 📜 (2023) I also did a Web Design course.
 
