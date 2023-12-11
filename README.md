@@ -2,23 +2,23 @@
 <br>
 
 **WHO AM I?**<br>
-🧍🏽‍♀ I'm mianaLab, a mix between a childhood nickname and my artistic name!<br>
+🧍🏽‍♀ I'm miana, a mix between a childhood nickname and my artistic name!<br>
 🌻 I love plants and one day I hope I'm able to have a big garden.<br>
 🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
 
 **WHAT ARE MY STUDIES?**<br>
-📜 (2019) I have a degree in **Marketing**, done in **IPS**.<br>
-📜 (2021) Then I went on to do a post graduation in **Strategic Marketing**, in **ISEG**.<br>
-📜 (2022) I did the Frontend Development course in **Codecademy**, and currently I'm learning Advanced Javascript and React.<br>
-📜 (2023) Currently I'm doing a 1y course in Web Design and Development, in **LSD**.<br>
+📜 (2019) I have a degree in **Marketing**.
+📜 (2021) Then I went on to do a post graduation in **Strategic Marketing**.
+📜 (2022) I did a Frontend Development course in **Codecademy**, and currently I'm learning React and TypeScript.<br>
+📜 (2023) I also did a Web Design course.
 
 **WHERE HAVE I WORKED?**<br>
 🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as a Digital Account Manager.<br>
-🎒 Changed area and currently been working for more than 1y as a Frontend Developer at YDigital Media.<br>
+🎒 Changed area and currently been working for 2y as a Frontend Developer at YDigital Media.<br>
 <br>
 <br>
 **MY SPECIAL PROJECTS**<br>
-[mIANA: My Personal Portfolio](https://mariana-c-ramos.github.io/miana-portfolio/)<br>
+[To Do App](https://github.com/mariana-c-ramos/todo-app)<br>
 [Roots: Online Plants' Store](https://mariana-c-ramos.github.io/roots-store/)
 
 ---
