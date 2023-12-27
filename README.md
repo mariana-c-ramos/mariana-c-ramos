@@ -19,8 +19,9 @@
 <br>
 <br>
 **MY SPECIAL PROJECTS**<br>
-[To Do App](https://github.com/mariana-c-ramos/todo-app)<br>
-[Roots: Online Plants' Store](https://mariana-c-ramos.github.io/roots-store/)
+[CheckIt](https://github.com/mariana-c-ramos/todo-app)<br>
+[maryProgramms](https://github.com/mariana-c-ramos/my-portfolio)<br>
+[Pokedex](https://github.com/mariana-c-ramos/pokedex)
 
 ---
 
