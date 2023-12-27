@@ -15,7 +15,7 @@
 
 **WHERE HAVE I WORKED?**<br>
 🏠 I worked for **2 years and a half** in a Digital Marketing agency in Lisbon - **YDigital Media** - as a Digital Account Manager.<br>
-🎒 Changed area and currently been working for 2y as a Frontend Developer at YDigital Media.<br>
+🎒 Changed area and currently been working for 1y8m as a Frontend Developer at YDigital Media.<br>
 <br>
 <br>
 **MY SPECIAL PROJECTS**<br>
