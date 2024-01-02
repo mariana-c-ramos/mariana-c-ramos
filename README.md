@@ -2,7 +2,7 @@
 <br>
 
 **WHO AM I?**<br>
-🧍🏽‍♀ I'm miana, a mix between a childhood nickname and my artistic name!<br>
+🧍🏽‍♀ I'm Mariana!<br>
 🌻 I love plants and one day I hope I'm able to have a big garden.<br>
 🏋🏽‍♀️ Staying active has always been important to me - I'm proud to say I'm a gym rat ahaha!
 
